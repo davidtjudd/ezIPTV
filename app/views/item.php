@@ -12,11 +12,11 @@
 ?>
     <div class="container p-1"><br/>
         <ul class="nav nav-justified">
-            <li class="nav-item"><a href="<?=$itemURL;?>/csv" target="_blank"><button type="button" class="btn btn-sm info-color text-white z-depth-0 waves-effect">CSV</button></a></li>
-            <li class="nav-item"><a href="<?=$itemURL;?>/m3u" target="_blank"><button type="button" class="btn btn-sm info-color text-white z-depth-0 waves-effect">M3U</button></a></li>
-            <li class="nav-item"><a href="<?=$itemURL;?>/rss" target="_blank"><button type="button" class="btn btn-sm info-color text-white z-depth-0 waves-effect">RSS</button></a></li>
-            <li class="nav-item"><a href="<?=$itemURL;?>/rss/epg" target="_blank"><button type="button" class="btn btn-sm info-color text-white z-depth-0 waves-effect">EPG</button></a></li>
-            <li class="nav-item"><a href="<?=$itemURL;?>/all" target="_blank"><button type="button" class="btn btn-sm info-color text-white z-depth-0 waves-effect">ALL</button></a></li>
+            <li class="nav-item"><a href="<?=$itemURL;?>csv" target="_blank"><button type="button" class="btn btn-sm info-color text-white z-depth-0 waves-effect">CSV</button></a></li>
+            <li class="nav-item"><a href="<?=$itemURL;?>m3u" target="_blank"><button type="button" class="btn btn-sm info-color text-white z-depth-0 waves-effect">M3U</button></a></li>
+            <li class="nav-item"><a href="<?=$itemURL;?>rss" target="_blank"><button type="button" class="btn btn-sm info-color text-white z-depth-0 waves-effect">RSS</button></a></li>
+            <li class="nav-item"><a href="<?=$itemURL;?>rss/epg" target="_blank"><button type="button" class="btn btn-sm info-color text-white z-depth-0 waves-effect">EPG</button></a></li>
+            <li class="nav-item"><a href="<?=$itemURL;?>all" target="_blank"><button type="button" class="btn btn-sm info-color text-white z-depth-0 waves-effect">ALL</button></a></li>
         </ul>
     </div>
     <form action="<? update($v["uid"]); ?>" method="post" class="p-5" style="padding-top:0px;">
