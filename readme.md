@@ -9,7 +9,7 @@ ezIPTV was created to be a DIY solution for IPTV enthusiasts. Instead of managin
 Oh, also it's all free. ezIPTV was created with the intention of using the free Heroku self hosted services.
 
 ## How to install on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/spencerthayer/ezIPTV)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/davidtjudd/ezIPTV)
 
 With Heroku anyone can build their own ezIPTV for free in just a few minutes!
 - [Create a free account with Heroku](https://signup.heroku.com/php) if you haven't done so already.
